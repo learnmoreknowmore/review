@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">android复习</string>
+    <string name="title_paging">paging</string>
+    <string name="title_work">work</string>
+    <string name="title_hilt">hilt</string>
+    <string name="title_navigation">navigation</string>
+    <string name="title_room">room</string>
+    <string name="title_rx">rx</string>
+    <string name="title_retrofit">retrofit</string>
+    <string name="title_image_load">image-load</string>
+    <string name="title_ndk">ndk</string>
+    <string name="title_camera">camera</string>
+    <string name="title_bluetooth">bluetooth</string>
+    <string name="title_media">media</string>
+    <string name="title_webview">webview</string>
+    <string name="title_map">map</string>
+    <string name="title_senor">senor</string>
+    <string name="title_hot_fix">hot-fix</string>
+</resources>

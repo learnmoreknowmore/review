@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bluetooth" />
+            <option value="$PROJECT_DIR$/camera" />
+            <option value="$PROJECT_DIR$/hilt" />
+            <option value="$PROJECT_DIR$/hot_fix" />
+            <option value="$PROJECT_DIR$/image-load" />
+            <option value="$PROJECT_DIR$/image_load" />
+            <option value="$PROJECT_DIR$/map" />
+            <option value="$PROJECT_DIR$/media" />
+            <option value="$PROJECT_DIR$/navigation" />
+            <option value="$PROJECT_DIR$/ndk" />
+            <option value="$PROJECT_DIR$/paging" />
+            <option value="$PROJECT_DIR$/retrofit" />
+            <option value="$PROJECT_DIR$/room" />
+            <option value="$PROJECT_DIR$/rx" />
+            <option value="$PROJECT_DIR$/senor" />
+            <option value="$PROJECT_DIR$/webview" />
+            <option value="$PROJECT_DIR$/work" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
